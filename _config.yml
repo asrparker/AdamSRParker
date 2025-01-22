@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "AI For People"
 title_separator          : "-"
-name                     : &name "what Name"
+name                     : &name "Adam S.R. Parker"
 description              : &description "personal descriptions of me show where"
 url                      : https://asrparker.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/AdamSRParker" # the subpath of your site, e.g. "/blog"
@@ -22,10 +22,10 @@ repository               : #""
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Adam S.R. Parker"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography is where"
-  location         : "Edmonton, Alberta, Canada"
+  bio              : "Human centered AI in robotics"
+  location         : "Edmonton, Alberta, <br>Canada"
   employer         : "University of Alberta"
   uri              : # URL
   email            : "asparker@ualberta.ca" 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # Username
+  github           : asrparker
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : adam-parker-3a06a625a
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -78,10 +78,16 @@ author:
 publication_category:
   # books:
     # title: 'Books'
+  thesis:
+    title: 'PhD Thesis'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Papers'   
+  workshops:
+    title: 'Conference Workshop Papers'   
+  pre-publication:
+    title: 'In Prep'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -130,7 +136,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -218,7 +224,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  media:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -264,10 +270,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _media
   - scope:
       path: ""
-      type: portfolio
+      type: media
     values:
       layout: single
       author_profile: true
