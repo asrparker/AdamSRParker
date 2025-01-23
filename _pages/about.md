@@ -24,6 +24,22 @@ I approach forming such collaborations by studying how AI can learn to communica
 I am also interested in applying my knowledge more strongly to music. This would be in the form of machine learning to provided systems that maximise creative freedom for musicians playing their instuments with robotic limbs, and ways of helping budding musicians improve with AI guidance.
 
 
+Gallery
+======
+<img src="images/1-blinclab-05.jpg" alt="Working with a student in the BLINC lab." width="350" />
+<img src="images/Folio.jpg" alt="Image from Folio article" width="350" />
+
+<img src="images/RedCarpet.jpg" alt="Red carpet at the Juno awards 2023" width="350" />
+<img src="images/JunoComp.jpg" alt="Setting up the activation for AMII at the Juno awards 2023" width="350" />
+
+<img src="images/JunoNeck.jpg" alt="Glamor shot of the guitar neck and robot hand" width="350" />
+<img src="images/HarmEase.jpg" alt="Talking about robots with the band Harm and Ease" width="350" />
+
+<img src="images/JunoGlamor.jpg" alt="Glamor shot" width="350" />
+
+Photo credits: Chris Oncul (AMII), Alex Pugliese (University of Alberta, Folio)
+
+
 <!-- 
 built-in text
 ======
